@@ -1,7 +1,18 @@
 #include <stdio.h>
 
-int main(void){
+int main(void)
+{
  printf("Coconut Cranberry Dessert\n");
- printf(/n);
+ printf("\n");
+ printf("1 1/2\t cups graham cracker crumbs \n");
+  printf("1 1/2\t 1/2 cup butter or margarine, melted \n");
+   printf("1 1/2\t 1 can sweetened condensed milk \n");
+    printf("1 1/2\t 1 cup flaked coconut \n");
+     printf("1 1/2\t 1 cup dried cranberries \n");
+      printf("1 1/2\t 2 cups vanilla chips \n");
+       printf("1 1/2\t 1 cup sliced almonds or pecans \n");
+        printf("1 1/2\t Combine graham cracker crumbs and butter. Press into a greased 13″ x 9″ pan. \n");
+        printf("1 1/2\t Combine remaining ingredients and spread over graham cracker mixture. Bake at 350°F for 25 minutes or until the edges are golden brown. Let cool and cut into squares. \n");
+
 }
 
