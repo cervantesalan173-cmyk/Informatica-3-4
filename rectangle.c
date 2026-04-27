@@ -9,7 +9,9 @@ int main(void){
     scanf("%d", &lenght);
     printf("enter width: ");
     scanf("%d", &width);
-    area = lenght * width;
-    perimeter = 2*(lenght + width);
+ area = lenght * width;
+  perimeter = 2*(lenght + width);
+ printf("area = %d\n",area);
+ printf("perimeter = %d\n",perimeter);
 }
 
